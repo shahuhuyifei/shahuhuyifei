@@ -1,13 +1,15 @@
-# Hi, I'm Yifei Wang
-- 👋 Hi, I’m @shahuhuyifei
-- 👀 I’m interested in HCI
-- 🌱 I’m currently learning HCI
+# ![Banner](images/banner.png)
+<p align="center">
+    <a href = "https://www.linkedin.com/in/yifeiwang205/">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yifeiwang205/)
 
 # My Skills
 ## Design
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe PR](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ## Tools
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
