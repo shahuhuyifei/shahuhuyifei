@@ -4,7 +4,7 @@
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
-
+I am a master's student who has a strong passion for Human-Computer Interaction, especially in Usability Engineering and User Experience Design.<br><br>
 
 # My Skills
 ## Design
